@@ -1,6 +1,13 @@
 # FYP-Desicion-Support-System
 Intent-Aware Logic-Constrained Neuro-Symbolic Decision Support System with Confidence Calibration and Reliance Support for SME Multi-Channel Marketing
 
+## Electronic supplementary materials
+
+The public [`supplementary-materials`](supplementary-materials/) package
+contains the reader-ready PDF and editable DOCX for Tables S1-S4. The frozen
+seed-level output underlying ESM Table S2 remains available at
+[`outputs/confirmatory_evaluation/seed_metrics.csv`](outputs/confirmatory_evaluation/seed_metrics.csv).
+
 ## Research data and evaluation gate
 
 The active three-layer package is stored under `data/layers/`:
